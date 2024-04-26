@@ -51,18 +51,25 @@
         
   <h2>Data Sources</h2>
         <ul>
-            <li>Provide a list of data sources used for creating the dashboard.</li>
-            <li>Include any relevant information about data collection methods or sources.</li>
+            <li>This data source is from Kaggle .</li>
+           <li>https://www.kaggle.com/datasets/goelyash/disney-hotstar-tv-and-movie-catalog</li>      
         </ul>
         
    <h2>Analysis</h2>
-        <p>Summarize the key findings or insights derived from the dashboard.</p>
-        <p>Discuss any trends, patterns, or anomalies observed in the data.</p>
+        <p>The key findings from a data dashboard for Disney+ Hotstar content, can be summarized as follows:</p>
+        <h3>Content Distribution by Country:</h3>
+        <p>The map indicates that the number of movies and TV shows varies by country, with some countries having a larger selection of content available.</p>
+        <h3>Content Ratings:</h3>
+        <p>The majority of content falls under the TV-PG (318 titles) and TV-G (301 titles) ratings, suggesting a focus on family-friendly content.</p>
+        <h3>Content Type Distribution:</h3>
+        <p>There is a larger number of movies compared to TV shows on the platform, as shown by the pie chart.</p>
+        <h3>Top 10 Genres:</h3>
+        <p>The most common genre is "Action-Adventure, Animation, Science Fiction" with 77 titles, followed by genres that include combinations of Action-Adventure, Animals & Nature, and Animation.</p>
+        <h3>Content Addition Over Time:</h3>
+        <p>There was a significant increase in the number of movies and TV shows added in 2019, with movies being the predominant type of content added over the years.</p>
+       <p>Overall, the dashboard suggests that Disney+ Hotstar has a diverse content library with a significant number of family-friendly titles, a focus on movies over TV shows, and a notable expansion of content in 2019.</p>.
         
-  <h2>Future Improvements</h2>
-        <p>Outline any potential enhancements or additional features for the dashboard.</p>
-        <p>Consider feedback from users or stakeholders to prioritize improvements.</p>
-    </main>
+ </main>
     
 </body>
 </html>
