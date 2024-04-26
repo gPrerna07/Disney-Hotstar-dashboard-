@@ -11,8 +11,22 @@
     </header>
     <main>
         <h2>Dashboard Overview</h2>
-        <p>Describe the purpose and goal of the dashboard here.</p>
-        <p>Include any key metrics or insights that the dashboard aims to provide.</p>  
+        <p>The goal and purpose of this dashboard are to provide an analytical overview of the content available on Disney+ Hotstar.</p>
+        <p>The dashboard contains several metrics and potential KPIs that provide insights into the performance and characteristics of the content on Disney+ Hotstar:-
+            Metrics:
+
+Number of Shows by Country: This metric shows the count of movies and TV shows available in each country, as visualized on the world map.
+Number of Shows by Rating: The bar chart displays the quantity of content classified under each rating category (G, PG, PG-13, etc.).
+Number of Movies vs. TV Shows: The pie chart compares the total number of movies to TV shows, giving a percentage distribution.
+Number of Shows by Genre: The horizontal bar chart lists the top 10 genres and the distinct count of shows within each genre.
+Yearly Content Addition: The stacked area chart shows the number of movies and TV shows added to the platform each year.
+
+         Potential KPIs:
+
+Content Growth Over Time: The yearly addition of movies and TV shows could be a KPI indicating the platform's growth and its investment in expanding the content library.
+Content Diversity: The number of genres and the distribution of shows across these genres could serve as a KPI for content diversity, ensuring a wide range of options for subscribers.
+Content Availability by Country: While the map shows a metric, the actual number or percentage of available content compared to the total library could be a KPI for market penetration or localization efforts.
+Content Rating Distribution: The distribution of content across different ratings could be a KPI related to content strategy, targeting different audience demographics.</p>  
         <h2>Insights</h2>
         <h3>Total Movies and TV Shows by Country:</h3>
         <p>A world map visualizes the distribution of movies and TV shows by country, with darker shades of blue indicating a higher count of shows available in that country. This interactive map allows users to explore the data further, suggesting it's a live data visualization.</p>
